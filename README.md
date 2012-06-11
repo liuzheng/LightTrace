@@ -1,6 +1,0 @@
-LightTrace
-==========
-
-Use MATLAB to simulate light trace . My Graduation Design Work....
-This program will based on Monte Carlo method .....
-
