@@ -11,10 +11,19 @@ Membery:8153688 kB 1333 MHz
 MATLAB Version : MATLAB_R2012a
 
 
-# 光线追迹                             | LightTrace
-用于MATLAB仿真追迹光线                 | use MATLAB to sumilate light 
-## 计划任务                            | TODO List
-第一阶段:线性追迹                      | Step1:Linear Trace
-第二阶段:加入波长参数                  | Step2:Add Wavelength parameters
-第三阶段:波粒二象性                    | Step3:Wave-particle duality
-第四阶段:引入电磁场理论                | Step4:Electromagnetic Field Theory
+# LightTrace
+use MATLAB to sumilate light
+##TODO List
+Step1:Linear Trace
+Step2:Add Wavelength parameters
+Step3:Wave-particle duality
+Step4:Electromagnetic Field Theory
+
+
+# 光线追迹
+用于MATLAB仿真追迹光线
+## 计划任务
+第一阶段:线性追迹
+第二阶段:加入波长参数
+第三阶段:波粒二象性
+第四阶段:引入电磁场理论
